@@ -1,0 +1,28 @@
+{
+  "name": "react-native-image-viewer",
+  "version": "0.9.1",
+  "description": "ImageViewer for RN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "shapes",
+    "android",
+    "ios",
+    "mobile",
+    "Image",
+    "ImageViewer"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shahen94/react-native-image-viewer.git"
+  },
+  "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
+  "peerDependencies": {
+    "react-native": ">=0.29"
+  }
+}

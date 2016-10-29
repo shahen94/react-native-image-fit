@@ -1,5 +1,5 @@
 {
-  "name": "react-native-image-viewer",
+  "name": "react-native-image-fit",
   "version": "0.9.1",
   "description": "ImageViewer for RN",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:shahen94/react-native-image-viewer.git"
+    "url": "git@github.com:shahen94/react-native-image-fit.git"
   },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "peerDependencies": {

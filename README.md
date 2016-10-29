@@ -4,18 +4,18 @@ ImageViewer component for RN
 ### Installation
 
 ```sh
-$ npm install --save react-native-image-viewer
+$ npm install --save react-native-image-fit
 ```
 or
 
 ```sh
-$ yarn add react-native-image-viewer
+$ yarn add react-native-image-fit
 ```
 
 ### Usage
 
 ```javascript
-import { ImageViewer } from 'react-native-image-viewer';
+import { ImageViewer } from 'react-native-image-fit';
 
 export const App = () => (
   <ImageViewer

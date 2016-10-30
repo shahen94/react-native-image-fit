@@ -1,4 +1,4 @@
-# react-native-switch
+# react-native-image-fit
 ImageViewer component for RN
 
 ### Installation

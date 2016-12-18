@@ -20,6 +20,7 @@ import { ImageViewer } from 'react-native-image-fit';
 export const App = () => (
   <ImageViewer
     disabled={false} // by default
+    source={require('./photo.png')} // or { url: 'https://...' }
     doubleTapEnabled={true} // by default double tap will zoom image
     onMove={(e, gestureState) => null}
     onPress={(opening) => console.log(opening)}
